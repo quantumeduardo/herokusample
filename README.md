@@ -1,2 +1,2 @@
-# herokusample
-first app deployment using heroku
+# littletiers
+little tiers
